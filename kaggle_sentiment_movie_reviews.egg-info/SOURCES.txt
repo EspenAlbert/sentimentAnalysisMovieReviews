@@ -1,0 +1,16 @@
+kaggle_sentiment_movie_reviews.egg-info/PKG-INFO
+kaggle_sentiment_movie_reviews.egg-info/SOURCES.txt
+kaggle_sentiment_movie_reviews.egg-info/dependency_links.txt
+kaggle_sentiment_movie_reviews.egg-info/requires.txt
+kaggle_sentiment_movie_reviews.egg-info/top_level.txt
+samr/__init__.py
+samr/corpus.py
+samr/data.py
+samr/evaluation.py
+samr/inquirer_lex_transform.py
+samr/predictor.py
+samr/settings.py
+samr/transformations.py
+scripts/cross_validate_config.py
+scripts/download_3rdparty_data.py
+scripts/generate_kaggle_submission.py
